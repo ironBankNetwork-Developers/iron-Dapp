@@ -19,6 +19,14 @@ Read [this](https://github.com/iron-bank/Documentation/blob/master/Building.md) 
 
 ### 2) Download and Run
 
+Terminal:
+```
+$ git clone https://github.com/iron-bank/iron-Dapp.git
+$ cd iron-Dapp
+$ open Start_iron.html 
+```
+
+Manual:
 1) Download this repo (.zip) and open it.
 
 2) Double click <strong>"Start_iron.html"</strong> file.
