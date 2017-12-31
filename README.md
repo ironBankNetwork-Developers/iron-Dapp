@@ -5,7 +5,7 @@
 The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 
 **NOTE:** The wallet is under development,
-may contain severe bugs!
+may contain severe bugs! 
 
 
 
