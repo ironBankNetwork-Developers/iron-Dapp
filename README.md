@@ -8,13 +8,8 @@ The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 
 ### 1) Run an iron node locally (go-IRON)
 ```
-$ iron --fast --cache=1024 --rpc --rpccorsdomain "file://" console
+$ iron --fast --cache=1024 --rpc --rpccorsdomain "*" console
 ```
-or 
-```
-$ iron --fast --cache=1024 --rpc --rpccorsdomain "file://" --unlock <your-account> console
-```
-
   **NOTE:** Remember you need to sync with the blockchain first:
 
 ```
