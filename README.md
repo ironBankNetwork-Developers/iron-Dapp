@@ -4,8 +4,7 @@
 
 The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 
-<img src="https://github.com/iron-bank/iron-Dapp/blob/master/iron_screen.png
-" weight="400">
+<img src="https://github.com/iron-bank/iron-Dapp/blob/master/iron_screen.png">
 
 # How to use:
 
