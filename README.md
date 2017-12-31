@@ -15,11 +15,10 @@ or
 $ iron --fast --cache=1024 --unlock <your-account> console
 ```
 
-**NOTE:** Remember you need to sync with the blockchain first:
+  **NOTE:** Remember you need to sync with the blockchain first:
 
 ```
 $ iron --bootnodes <bootnode-enode-parameters>
-
 ```
 Read [this](https://github.com/iron-bank/Documentation/blob/master/Building.md) to learn about how to sync!
 
