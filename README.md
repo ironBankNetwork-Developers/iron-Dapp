@@ -23,11 +23,14 @@ $ iron --bootnodes <bootnode-enode-parameters>
 ```
 Read [this](https://github.com/iron-bank/Documentation/blob/master/Building.md) to learn about how to sync!
 
-### 2) Download this repo (.zip) and open it.
+### 2) Download and Run
 
-### 3) Double click "Start_iron.html" file.
+1) Download this repo (.zip) and open it.
 
-### 4) A web browser app should pop up running the iron Dapp, enjoy! 
+2) Double click <strong>"Start_iron.html"</strong> file.
+
+3) A web browser should pop up running the iron Dapp, enjoy! 
+
 
 
 **NOTE:** The wallet is under development,
