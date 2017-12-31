@@ -7,6 +7,16 @@ The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 # How to use:
 
 #### 1) Run an iron node locally (go-IRON)
+```
+
+```
+
+**NOTE:** Remember you need to be sync to the network first, by using:
+
+```
+
+```
+
 
 #### 2) Download this repo (.zip)
 
