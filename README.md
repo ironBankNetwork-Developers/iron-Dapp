@@ -12,12 +12,14 @@ The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 ```
 $ iron --fast --cache=1024 --rpc --rpccorsdomain "*" console
 ```
-  **NOTE:** Remember you need to sync with the blockchain first:
+  **NOTE 1:** Remember you need to sync with the blockchain first:
 
 ```
 $ iron --bootnodes <bootnode-enode-parameters>
 ```
 Read [this](https://github.com/iron-bank/Documentation/blob/master/Building.md) to learn about how to sync!
+
+  **NOTE 2:** You can change `--rpccorsdomain "*"`  to  `--rpccorsdomain "file://<your-local-path-to-Start_iron.html>"`, for more security measures.
 
 ### 2) Download and Run
 
