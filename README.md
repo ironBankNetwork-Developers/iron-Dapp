@@ -4,6 +4,17 @@
 
 The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 
+# How to use:
+
+#### 1) Run an iron node locally (go-IRON)
+
+#### 2) Download this repo (.zip)
+
+#### 3) Double click Start_iron.html file
+
+#### 4) A web browser app should pop up running the Dapp, enjoy! 
+
+
 **NOTE:** The wallet is under development,
 may contain severe bugs! 
 
