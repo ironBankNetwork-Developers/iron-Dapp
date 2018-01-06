@@ -41,3 +41,5 @@ Manual:
 
 **NOTE:** The wallet is under development,
 may contain severe bugs! 
+
+Author/Developer: Alber Erre
