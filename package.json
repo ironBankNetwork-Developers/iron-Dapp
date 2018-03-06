@@ -1,0 +1,15 @@
+{
+  "name": "iron_dapp",
+  "version": "1.18.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Alber Erre",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^11.1.0"
+  },
+  "scripts": {
+    "build": "electron-packager . iron",
+    "start": "electron main.js"
+  }
+}
