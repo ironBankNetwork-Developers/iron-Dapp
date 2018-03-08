@@ -3,7 +3,7 @@ const { app, BrowserWindow } = electron;
 
 app.on('ready', function() {
   let mainWindow = new BrowserWindow({
-		width: 1400,
+		width: 1200,
 		height: 800,
 		webPreferences:{
 			nodeIntegration: false }
