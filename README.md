@@ -1,4 +1,4 @@
-# iron Dapp - v.1.8
+# iron Dapp - v.1.8 <img align="right" src="https://github.com/ironBankNetwork/iron-core/blob/master/iron.png" height="150px" alt="iron logo">
 
 <img src="https://png.icons8.com/color/40/000000/code-file.png" height="45"><img src="https://png.icons8.com/color/40/000000/imac.png" height="45">
 
