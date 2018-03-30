@@ -4,7 +4,7 @@
 
 The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 
-<img src="https://github.com/iron-bank/iron-Dapp/blob/master/iron_screen.png">
+<img src="https://github.com/ironBankNetwork-Developers/iron-Dapp/blob/master/iron_screen.png">
 
 # How to use:
 
@@ -17,7 +17,7 @@ $ iron --fast --cache=1024 --rpc --rpccorsdomain "*" console
 ```
 $ iron --bootnodes <bootnode-enode-parameters>
 ```
-Read [this](https://github.com/iron-bank/Documentation/blob/master/Building.md) to learn about how to sync!
+Read [this](https://github.com/ironBankNetwork-Developers/Documentation/blob/master/Building.md) to learn about how to sync!
 
   **INFO:** You can change `--rpccorsdomain "*"`  to  `--rpccorsdomain "file://<your-local-path-to-Start_iron.html>"`, for more security measures.
 
