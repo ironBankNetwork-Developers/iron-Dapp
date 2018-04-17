@@ -1,0 +1,29 @@
+{
+  "name": "ironBankNetwork",
+  "productName": "iron",
+  "version": "1.4.3",
+  "description": "iron Dapp - iron Bank Network",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "package": "",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Your App Name\"",
+    "package-linux": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=release-builds"
+  },
+  "keywords": [
+    "ironBankNetwork",
+    "dapp",
+    "ethereum",
+    "iron"
+  ],
+  "author": "Alber Erre <arblugo@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron": "^1.8.4"
+  },
+  "devDependencies": {
+    "asar": "^0.14.3",
+    "electron-packager": "^11.2.0"
+  }
+}
