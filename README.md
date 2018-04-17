@@ -9,6 +9,14 @@ The iron Dapp to interact with the iron Bank Network blockchain. 🚀
 # How to use:
 
 ### 1) Run an iron node locally - you may use either [go-IRON](https://github.com/ironBankNetwork/go-IRON) or [Ganache](http://truffleframework.com/ganache)
+
+#### Option 1: Ganache (Users)
+
+Just go to http://truffleframework.com/ganache and download the last version. Then, run the local node using these parameters as settings:
+
+<img src="https://github.com/ironBankNetwork/iron-Dapp/blob/master/ganache-config.png">
+
+#### Option 2: go-IRON (Developers)
 ```
 go-IRON, run:
 
